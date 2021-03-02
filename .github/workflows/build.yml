@@ -2,8 +2,9 @@ name: Update members
 
 on:
   workflow_dispatch:
-  schedule: 
-    - cron:  '0 1 * * *'
+    # Uncomment to schedule builds
+    #  schedule: 
+    #- cron:  '0 1 * * *'
 
 jobs:
   build:
