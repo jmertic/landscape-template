@@ -22,7 +22,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Current Version
 
-[![Landscape Template][3]][3]
+[![Landscape Template][PNG]][PNG]
 
 ## Interactive Version
 
