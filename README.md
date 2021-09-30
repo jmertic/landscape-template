@@ -26,7 +26,7 @@ It is modelled after the [Cloud Native Computing Foundation (CNCF) landscape] an
 
 ## Interactive Version
 
-Please see [ospolandscape.todogroup.org].
+Please see [landscape view].
 
 ## New Entries
 
@@ -81,7 +81,7 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 [1]: https://david-dm.org/jmertic/landscape-template``
 [Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
 [2]: https://app.netlify.com/sites/graphql-landscape/deploys
-[ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
+[landscape view]: https://ospolandscape.todogroup.org
 [PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
 [PNG]: https://ospolandscape.todogroup.org/images/landscape.png
 [issue]: https://github.com/jmertic/landscape-template/issues/new
