@@ -1,4 +1,4 @@
-[![Dependency Status][]][1] [![Netlify Status]][2]
+[![Netlify Status]][2]
 
 <!-- Change to the name of your landscape -->
 # Landscape Template
@@ -77,10 +77,8 @@ You can install and run locally with the [install directions]. It's not necessar
 Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
-[Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/jmertic/landscape-template``
 [Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/graphql-landscape/deploys
+[2]: https://app.netlify.com/sites/ospolandscape-landscape/deploys
 [landscape view]: https://ospolandscape.todogroup.org
 [PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
 [PNG]: https://ospolandscape.todogroup.org/images/landscape.png
@@ -104,5 +102,3 @@ Please open an [issue] or, for sensitive information, email info\@cncf.io.
 [Crunchbase]: https://www.crunchbase.com/
 [Creative Commons Attribution 4.0 license]: https://creativecommons.org/licenses/by/4.0/
 [install directions]: INSTALL.md
-
- 
