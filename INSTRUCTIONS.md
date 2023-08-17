@@ -2,7 +2,7 @@
 
 This template is designed to help you get started on building a landscape. It's based on the TODO Group OSPO landscape.
 
-- Clone this template repo into your github organization or account.
+- [Clone this template repo into your github organization or account](https://github.com/new?template_name=landscape-template&template_owner=jmertic).
 - Create the subdomain for the landscape ( typically landscape.yourprojectdomain ) and a short domain that will forward to this ( typically l.yourprojectdomain )
 - Create the landscape logo and replace [images/left-logo.svg](images/left-logo.svg)
 - Set [images/right-logo.svg](images/right-logo.svg) as your project's logo
