@@ -1,4 +1,4 @@
-# landscape short name
+# landscape short name; use the project slug here
 landscapeName: lf
 # Update with your membership structure
 landscapeMemberClasses:
@@ -12,7 +12,10 @@ landscapeMemberClasses:
      category: Academic Institution
    - name: Associate Membership
      category: Associate
-# SF Project record ID for your project
+# Project record ID for your project. You can get this by going to the project in
+# PCC, and looking for the part of the URL after /project/. For example,
+# https://projectadmin.lfx.linuxfoundation.org/project/a092M00001MtYMaQAN the
+# ID would be a092M00001MtYMaQAN 
 project: a0941000002wBymAAE # Open Mainframe Project
 # Name of category for members 
 landscapeMemberCategory: Open Mainframe Project Member Company
